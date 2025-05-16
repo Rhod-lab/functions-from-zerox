@@ -10,3 +10,5 @@ optional (set up virtualenv) (install ipython ouside of requirements.txt)
 =======
 [![Dependabot Updates](https://github.com/Rhod-lab/functions-from-zerox/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Rhod-lab/functions-from-zerox/actions/workflows/dependabot/dependabot-updates)
 >>>>>>> fe44544a922182ff7d443a6fd69b1bc16653a72e
+
+[![CI](https://github.com/Rhod-lab/functions-from-zerox/actions/workflows/main.yml/badge.svg)](https://github.com/Rhod-lab/functions-from-zerox/actions/workflows/main.yml)
